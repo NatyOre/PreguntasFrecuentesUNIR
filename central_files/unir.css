@@ -211,6 +211,7 @@ sumary{
 	font-weight: bold;
 	color: #fff;
 	font-size: 14vw;
+	position: relative;
 	cursor: pointer;
 }
 details{
@@ -222,7 +223,7 @@ details{
 	/*font-family: verdana;*/
 	/*margin-bottom: 5px;*/
 	width: auto;
-  min-width: 570px;
+  /*min-width: 570px;*/
   max-width: 1148px;
 	background-color: #F3F3F3;
 }
